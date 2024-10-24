@@ -85,7 +85,7 @@ export default function Home() {
         {/* About Organization Section */}
         <section className="mt-20 text-center" data-aos="fade-up">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">About AEC</h2>
-          <p className="max-w-3xl mx-auto text-lg text-gray-600 leading-relaxed mb-8">
+          <p className="max-w-3xl mx-auto text-bodytext text-lg text-gray-600 leading-relaxed mb-8">
             AEC focuses on adhering to students’ education by providing an opportunity for them to learn, grow, and expand in suitable career choices. Students will construct a team at their institution. Similar to current engineering workforces, teams arrange subteams (business, engineering, etc) and execute a project that efficiently solves our program’s annual challenges. Our organization will develop a concise curriculum for students to correlate necessary information needed for them to be successful. Our team will also provide mentorship through our voluntary programs that help these students meet their needs. Our organization’s season will kick start Fall 2025.
           </p>
         </section>
